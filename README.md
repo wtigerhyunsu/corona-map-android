@@ -10,7 +10,7 @@ workshop
 
 - 시스템 구성도 
 
-> ![그림33](C:\Users\student\Pictures\그림33.png)
+> ![그림1](C:\Users\student\corona\그림1.png)
 >
 > 서버가 따로 없기 떄문에 eclipse와 톰캣을 이용한다. MainActivity에서 Login 유효성 검사는 qqq/111 로 임의로 지정하여 값 비교  SecondActivity에 Adapter를 이용해 ListView에 list를 형성 listview 에안에  담긴  JSON 데이터는 실 데이터를 보고 장소의 위도, 경도 좌표를 직접 가져와서 작성 map에 좌표를 찍는다
 
